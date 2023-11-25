@@ -15,7 +15,7 @@ Understand how `encapsulation` promotes data protection and code organization by
 
 **Problem**
 
-Create program contain encapsulation concept.
+Create any program contain encapsulation concept.
 
 **Implementation**
 
@@ -23,5 +23,9 @@ Create program contain encapsulation concept.
 
 ```Java
 
+public class Main {
+    public static void main(String[] args) {
+
+}
 
 ```
