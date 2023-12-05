@@ -16,13 +16,14 @@ Understand how `encapsulation` promotes data protection and code organization by
 
 **Problem**
 
-Creating a `Student` class containing **encapsulation concept**.
+Create a `Student` class containing **encapsulation concept**.
 
 **Implementation**
-* Create data members name, age, and studentId are declared as `private`.
-* Create getter and Setter methods.
-
-
+* Create a Student class, with the following attributes name, age, and studentId.
+* Add an age attribute that is only available within the `Student` class. 
+* In the `main` method, create an object from the `Student` class
+* set and print values for the attributes (name, age, and studentId).
+  
 ```Java
 public class Main {
     public static void main(String[] args) {
