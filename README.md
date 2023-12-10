@@ -19,10 +19,10 @@ Understand how `encapsulation` promotes data protection and code organization by
 Create a `Student` class containing **encapsulation concept**.
 
 **Implementation**
-* Create a Student class, with the following attributes name, age, and studentId.
+* Create a Student class, with the following attributes Id, Name, and Age.
 * Add an age attribute that is only available within the `Student` class. 
 * In the `main` method, create an object from the `Student` class
-* set and print values for the attributes (name, age, and studentId).
+* set and print values for the attributes (Id, Name, and Age).
   
 ```Java
 public class Main {
