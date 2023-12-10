@@ -11,6 +11,7 @@ Understand how `encapsulation` promotes data protection and code organization by
 |----------|:-------------:|
 |What is an encapsulation|[Encapsulation (Tutorial)](https://www.youtube.com/watch?v=qP9-3LnMZsE),[Encapsulation overview](https://www.sumologic.com/glossary/encapsulation/#:~:text=Encapsulation%20is%20a%20way%20to,an%20instantiated%20class%20or%20object.)|
 |Encapsulation in java|[Encapsulation (Tutorial)](https://www.youtube.com/watch?v=cU94So54cr8)|
+|What is a class|[Class document](https://www.techopedia.com/definition/3214/class-java#:~:text=What%20Does%20Class%20Mean%3F,have%20the%20basic%20class%20properties.)|
 
 
 **Problem**
