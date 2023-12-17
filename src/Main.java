@@ -35,7 +35,7 @@ class Student{
   }
 
   public void print(){
-    System.out.print("youre name is " + this.name + " and yore age is " + age + " and youre id is" + id);
+    System.out.print("youre name is " + this.name + " and yore age is " + age + " and youre id is " + id);
   }
 }
 public class Main {
